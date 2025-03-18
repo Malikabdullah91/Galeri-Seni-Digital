@@ -77,9 +77,15 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
+<<<<<<< HEAD
     namespace "com.woco"
     defaultConfig {
         applicationId "com.woco"
+=======
+    namespace "com.wocoo"
+    defaultConfig {
+        applicationId "com.wocoo"
+>>>>>>> a43707d ([BAB 2] KOMPONEN REACT NATIVE DAN TEXT HANDLING)
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

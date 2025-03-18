@@ -1,4 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "Woco",
   "displayName": "Woco"
+=======
+  "name": "Wocoo",
+  "displayName": "Wocoo"
+>>>>>>> a43707d ([BAB 2] KOMPONEN REACT NATIVE DAN TEXT HANDLING)
 }

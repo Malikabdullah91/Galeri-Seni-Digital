@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Woco</string>
+=======
+    <string name="app_name">Wocoo</string>
+>>>>>>> a43707d ([BAB 2] KOMPONEN REACT NATIVE DAN TEXT HANDLING)
 </resources>

@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "Woco",
+=======
+  "name": "Wocoo",
+>>>>>>> a43707d ([BAB 2] KOMPONEN REACT NATIVE DAN TEXT HANDLING)
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,8 +14,15 @@
     "test": "jest"
   },
   "dependencies": {
+<<<<<<< HEAD
     "react": "19.0.0",
     "react-native": "0.78.0"
+=======
+    "iconsax-react-native": "^0.0.8",
+    "react": "19.0.0",
+    "react-native": "0.78.0",
+    "react-native-svg": "^15.11.2"
+>>>>>>> a43707d ([BAB 2] KOMPONEN REACT NATIVE DAN TEXT HANDLING)
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
@@ -36,4 +47,8 @@
   "engines": {
     "node": ">=18"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a43707d ([BAB 2] KOMPONEN REACT NATIVE DAN TEXT HANDLING)
